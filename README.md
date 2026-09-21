@@ -157,12 +157,12 @@ https://fanuel18.github.io/GitReady-2.0
       </table>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/nathnlmrs">
-        <img src="https://github.com/nathnlmrs.png" width="100px" style="border-radius:50%"/><br/>
+      <a href="https://github.com/nthnlmrs">
+        <img src="https://github.com/nthnlmrs.png" width="100px" style="border-radius:50%"/><br/>
         <sub><b>🧑‍💻 Nathan Lamaris</b></sub>
       </a>
       <br/>
-      <img src="https://img.shields.io/badge/GitHub-nathnlmrs-d0bcff?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-nthnlmrs-d0bcff?style=flat-square&logo=github&logoColor=white"/>
       <br/><br/>
       <b>Role: Frontend Developer & Content Architect</b>
       <br/><br/>
